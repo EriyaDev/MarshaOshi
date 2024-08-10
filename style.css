@@ -222,6 +222,10 @@ footer .social-icons a i{
     color: white;
 }
 
+footer p{
+    text-align: center;
+}
+
 .act{
     width: 100%;
     display: flex;
